@@ -46,7 +46,7 @@
 	}
 
 	.navbar-nav {
-		/* display: none; */
+		display: none;
 	}
 
 	.container_logo {
@@ -55,9 +55,9 @@
 }
 
 @media screen and (max-width: 300px) {
-	/* .open-slide {
+	.open-slide {
 		display: none;
-	} */
+	}
 }
 
 /* listing media query */
